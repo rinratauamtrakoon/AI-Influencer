@@ -1,2 +1,2 @@
-# AI-influencer
+# AI-Influencer
 UI Appication AI

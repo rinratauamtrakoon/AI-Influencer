@@ -20,8 +20,10 @@
 * **Typography:** Inter / Roboto 
 * **Colors:**
   * <img src="./assets/Color-01.png" width="25" align="center"> `#111214`
-  * <img src="./assets/Color-02.png" width="25" align="center"> `#222222` 
-  * ![#FF6B00](https://via.placeholder.com/15/FF6B00/000000?text=+) `#FF6B00`
+  * <img src="./assets/Color-02.png" width="25" align="center"> `#F97316` 
+  * <img src="./assets/Color-03.png" width="25" align="center"> `#FFFFFF`
+  * <img src="./assets/Color-04.png" width="25" align="center"> `#B5B5B5`
+  * <img src="./assets/Color-05.png" width="25" align="center"> `#FF6B00` ( <img src="./assets/Color-05.png" width="25" align="center">
 
 ### ✨ Key Interface Features
 * **Content-Heavy Grid System:** จัดวาง Layout แบบผสมผสาน (Masonry & Standard Grid) เพื่อรองรับภาพหลายสัดส่วน (เช่น แนวตั้งสำหรับ UGC, แนวนอนสำหรับ Ads)

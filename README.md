@@ -175,10 +175,12 @@
    <tr align="center">
       <td><b> Package (Monthly) </b></td>
       <td><b> Package (Yearly) </b></td>
+      <td><b> Payment </b></td>
     </tr>
     <tr>
       <td><img src="./assets/Package-Monthly.png" width="300"></td>
       <td><img src="./assets/Package-Yearly.png" width="300"></td>
+      <td><img src="./assets/Payment.png" width="300"></td>
     </tr>
   </table>
 </div>

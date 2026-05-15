@@ -159,6 +159,17 @@
       <td><img src="./assets/Ad-Clone-UI.png" width="300"></td>
     </tr>
   </table>
+
+  <table>
+   <tr align="center">
+      <td><b> Create Your Own Avatar (Image to Avatar) </b></td>
+      <td><b> Create Your Own Avatar (Video to Avatar) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Cyoa-ITA.png" width="300"></td>
+      <td><img src="./assets/Cyoa-VTA.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

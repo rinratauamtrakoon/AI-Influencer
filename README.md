@@ -111,6 +111,17 @@
       <td><img src="./assets/AG-Audio-TTS.png" width="300"></td>
     </tr>
   </table>
+
+   <table>
+   <tr align="center">
+      <td><b> Asset Generator - Audio (Text to Music) </b></td>
+      <td><b> Asset Generator - Audio (Text to Speech) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Soical-UGC-ADS _See-all.png" width="300"></td>
+      <td><img src="./assets/AG-Audio-TTS.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

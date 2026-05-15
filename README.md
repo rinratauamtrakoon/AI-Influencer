@@ -128,10 +128,13 @@
    <table>
    <tr align="center">
       <td><b> Market Trends </b></td>
+      <td><b> Projects </b></td>
+      <td><b> Products </b></td>
     </tr>
     <tr>
       <td><img src="./assets/Market-Trends.png" width="300"></td>
-      <td><img src="./assets/Image-Ads_See-all.png" width="300"></td>
+      <td><img src="./assets/Projects.png" width="300"></td>
+      <td><img src="./assets/Products.png" width="300"></td>
     </tr>
   </table>
 </div>

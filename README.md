@@ -57,8 +57,8 @@
 
 | Product Visual Effects | Avatar Showcase |
 |:---:|:---:|
-| ![Product UI](https://via.placeholder.com/400x300/222222/FFFFFF?text=Product+Grid+Screenshot) | ![Avatar UI](https://via.placeholder.com/400x300/222222/FFFFFF?text=Avatar+Grid+Screenshot) |
-| *Cinematic product rendering interface.* | *Photorealistic virtual persona management.* |
+| <img src="./assets/Home-AL.png" width="450"> | (https://via.placeholder.com/400x300/222222/FFFFFF?text=Avatar+Grid+Screenshot) |
+
 
 ---
 

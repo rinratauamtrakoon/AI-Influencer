@@ -20,7 +20,7 @@
 เราเลือกใช้ธีม **Dark Mode** เป็นหลัก เพื่อช่วยลดความเมื่อยล้าของสายตาเมื่อต้องทำงานกับรูปภาพจำนวนมาก และช่วยขับเน้นสีสันของผลงาน AI (Product Effects & Avatars) ให้โดดเด่นเด้งออกมาจากพื้นหลัง
 * **Typography:** Inter / Roboto (เน้นความสะอาดตาและอ่านง่ายในสเกลข้อมูลที่แน่น)
 * **Colors:**
-  * ![#111111](https://via.placeholder.com/15/111111/000000?text=+) `#111111` (Deep Background)
+  * <img src="./assets/Black.png" width="20"> `#111111` (Deep Background)
   * ![#222222](https://via.placeholder.com/15/222222/000000?text=+) `#222222` (Surface / Card Background)
   * ![#FF6B00](https://via.placeholder.com/15/FF6B00/000000?text=+) `#FF6B00` (Vibrant Amber / Primary Accent)
 

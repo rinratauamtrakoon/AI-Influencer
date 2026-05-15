@@ -19,8 +19,8 @@
 เราเลือกใช้ธีม **Dark Mode** เป็นหลัก เพื่อช่วยลดความเมื่อยล้าของสายตาเมื่อต้องทำงานกับรูปภาพจำนวนมาก และช่วยขับเน้นสีสันของผลงาน AI (Product Effects & Avatars) ให้โดดเด่นเด้งออกมาจากพื้นหลัง
 * **Typography:** Inter / Roboto 
 * **Colors:**
-  * <img src="./assets/Black-01.png" width="25" align="center"> `#111214`
-  * <img src="./assets/Black-01.png" width="25" align="center"> `#222222` 
+  * <img src="./assets/Color-01.png" width="25" align="center"> `#111214`
+  * <img src="./assets/Color-02.png" width="25" align="center"> `#222222` 
   * ![#FF6B00](https://via.placeholder.com/15/FF6B00/000000?text=+) `#FF6B00`
 
 ### ✨ Key Interface Features

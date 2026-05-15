@@ -17,13 +17,13 @@
 
 ### 🌌 Visual Style: Immersive Dark Mode
 เราเลือกใช้ธีม **Dark Mode** เป็นหลัก เพื่อช่วยลดความเมื่อยล้าของสายตาเมื่อต้องทำงานกับรูปภาพจำนวนมาก และช่วยขับเน้นสีสันของผลงาน AI (Product Effects & Avatars) ให้โดดเด่นเด้งออกมาจากพื้นหลัง
-* **Typography:** Inter / Roboto 
+* **Typography:** Bebas Neue / Poppins
 * **Colors:**
   * <img src="./assets/Color-01.png" width="25" align="center"> `#111214`
   * <img src="./assets/Color-02.png" width="25" align="center"> `#F97316` 
   * <img src="./assets/Color-03.png" width="25" align="center"> `#FFFFFF`
   * <img src="./assets/Color-04.png" width="25" align="center"> `#B5B5B5`
-  * <img src="./assets/Color-05.png" width="25" align="center"> `#FF6B00` ( <img src="./assets/Color-05.png" width="25" align="center">
+  * <img src="./assets/Color-05.png" width="25" align="center"> ( <img src="./assets/Color-06.png" width="20" align="center" >`#FEA05F` <img src="./assets/Color-07.png" width="20" align="center" >`#FF8430` <img src="./assets/Color-07.png" width="20" align="center" >`#FF6800` )
 
 ### ✨ Key Interface Features
 * **Content-Heavy Grid System:** จัดวาง Layout แบบผสมผสาน (Masonry & Standard Grid) เพื่อรองรับภาพหลายสัดส่วน (เช่น แนวตั้งสำหรับ UGC, แนวนอนสำหรับ Ads)
@@ -58,7 +58,7 @@
 
 | Product Visual Effects | Avatar Showcase |
 |:---:|:---:|
-| <img src="./assets/Home-AL.png" width="450"> | (https://via.placeholder.com/400x300/222222/FFFFFF?text=Avatar+Grid+Screenshot) |
+| <img src="./assets/Home-AL.png" width="450"> |  |
 
 
 ---

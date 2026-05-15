@@ -50,23 +50,16 @@
 
 ## 📱 Interactive Prototype
 คุณสามารถทดลองใช้งาน Prototype และดู Component States ต่างๆ ได้ที่นี่:
-👉 [**View Figma Prototype**](URL_LINK_HERE)
+👉 [**View Figma Prototype**](https://www.figma.com/design/JNiPOCPXuaJUiUynTVrOYP/Al-Influencer--UI-Kits-?node-id=1-2&t=XrUrF3ovQjZKoFqw-1)
 
 ---
 
-## 📸 Section Highlights
-
-| Product Visual Effects | Avatar Showcase |
-|:---:|:---:|
-| <img src="./assets/Home-AL.png" width="450"> |  |
+## 📸 All Pages
 
 
----
+<div align="center">
+  <img src="./assets/hero-image.png" width="600">
+</div>
 
-## 👨‍💻 My Role
-ในโปรเจกต์นี้ผมรับผิดชอบในส่วน:
-* **UI Design:** ออกแบบ Layout โครงสร้าง Dashboard ทั้งหมด โดยเน้นแก้ปัญหาเรื่องการจัดวางข้อมูลที่หนาแน่น (Information Architecture)
-* **Component Design:** สร้างระบบ Card, Navigation Sidebar, และ Button States
-* **Visual Direction:** คุมโทนภาพรวมของภาพ AI ที่นำมาใช้เป็น Mockup ให้ไปในทิศทางเดียวกัน (Cinematic & High-fidelity)
 
 ---

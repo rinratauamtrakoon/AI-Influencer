@@ -43,8 +43,6 @@
 
 ## 🛠️ Built With
 * **Design Tool:** Figma (UI Layout, Prototyping & Grid System)
-* **Visual Assets:** Generative AI / Prompt Engineering (สร้างภาพ Mockup ทั้งหมดในโปรเจกต์)
-* **Core Tech:** [ใส่เทคโนโลยีที่ใช้พัฒนา เช่น React.js, Tailwind CSS]
 
 ---
 
@@ -56,9 +54,26 @@
 
 ## 📸 All Pages
 
+<div align="left">
+  <table>
+   <tr align="center">
+      <td><b>📱 Mobile View</b></td>
+      <td><b>💻 Desktop View</b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+    </tr>
+  </table>
 
-<div align="center">
-  <img src="./assets/hero-image.png" width="600">
+ <table>
+    <tr>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

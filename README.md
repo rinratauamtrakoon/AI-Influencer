@@ -57,11 +57,11 @@
 <div align="left">
   <table>
    <tr align="center">
-      <td><b>📱 Mobile View</b></td>
-      <td><b>💻 Desktop View</b></td>
+      <td><b> Home (Before Login) </b></td>
+      <td><b> Home (After Login) </b></td>
     </tr>
     <tr>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
+      <td><img src="./assets/Home-BL.png" width="300"></td>
       <td><img src="./assets/Home-AL.png" width="300"></td>
       <td><img src="./assets/Home-AL.png" width="300"></td>
     </tr>

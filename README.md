@@ -66,14 +66,6 @@
       <td><img src="./assets/Home-AL.png" width="300"></td>
     </tr>
   </table>
-
- <table>
-    <tr>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
-    </tr>
-  </table>
 </div>
 
 

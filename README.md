@@ -74,7 +74,19 @@
     <tr>
       <td><img src="./assets/AI-Video-Ads.png" width="300"></td>
       <td><img src="./assets/AI-Avatars.png" width="300"></td>
-      <td><img src="./assets/AI-Video-Ads.png" width="300"></td>
+    </tr>
+  </table>
+
+   <table>
+   <tr align="center">
+      <td><b> Asset Generator - Video (Text to Video) </b></td>
+      <td><b> Asset Generator - Video (Image to Video) </b></td>
+      <td><b> Asset Generator - Video (Video to Video) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/AG-Video-TTV.png" width="300"></td>
+      <td><img src="./assets/AG-Video-ITV.png" width="300"></td>
+      <td><img src="./assets/AG-Video-VTV.png" width="300"></td>
     </tr>
   </table>
 </div>

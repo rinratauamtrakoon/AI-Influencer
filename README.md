@@ -63,7 +63,6 @@
     <tr>
       <td><img src="./assets/Home-BL.png" width="300"></td>
       <td><img src="./assets/Home-AL.png" width="300"></td>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
     </tr>
   </table>
 
@@ -123,6 +122,16 @@
       <td><img src="./assets/Soical-UGC-ADS _See-all.png" width="300"></td>
       <td><img src="./assets/Image-Ads_See-all.png" width="300"></td>
       <td><img src="./assets/Product-Visual Effects_See-all.png" width="300"></td>
+    </tr>
+  </table>
+
+   <table>
+   <tr align="center">
+      <td><b> Market Trends </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Market-Trends.png" width="300"></td>
+      <td><img src="./assets/Image-Ads_See-all.png" width="300"></td>
     </tr>
   </table>
 </div>

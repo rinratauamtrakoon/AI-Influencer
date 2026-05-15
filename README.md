@@ -89,6 +89,17 @@
       <td><img src="./assets/AG-Video-VTV.png" width="300"></td>
     </tr>
   </table>
+
+   <table>
+   <tr align="center">
+      <td><b> Asset Generator - Image (Text to Video) </b></td>
+      <td><b> Asset Generator - Image (Image to Image) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/AG-Image-TTV.png" width="300"></td>
+      <td><img src="./assets/AG-Image-IIM.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

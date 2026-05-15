@@ -1,7 +1,6 @@
 # 🤖 AI-Influencer: AI-Driven Content & Avatar Studio
 > A premium dark-mode interface for generating ads, UGC, and next-generation virtual personas.
 
-![Hero Image](https://via.placeholder.com/1200x600/111111/FF6B00?text=Insert+Your+Full+Dashboard+Mockup+Here)
 
 ---
 
@@ -18,11 +17,11 @@
 
 ### 🌌 Visual Style: Immersive Dark Mode
 เราเลือกใช้ธีม **Dark Mode** เป็นหลัก เพื่อช่วยลดความเมื่อยล้าของสายตาเมื่อต้องทำงานกับรูปภาพจำนวนมาก และช่วยขับเน้นสีสันของผลงาน AI (Product Effects & Avatars) ให้โดดเด่นเด้งออกมาจากพื้นหลัง
-* **Typography:** Inter / Roboto (เน้นความสะอาดตาและอ่านง่ายในสเกลข้อมูลที่แน่น)
+* **Typography:** Inter / Roboto 
 * **Colors:**
-  * <img src="./assets/Black.png" width="20"> `#111111` (Deep Background)
-  * ![#222222](https://via.placeholder.com/15/222222/000000?text=+) `#222222` (Surface / Card Background)
-  * ![#FF6B00](https://via.placeholder.com/15/FF6B00/000000?text=+) `#FF6B00` (Vibrant Amber / Primary Accent)
+  * <img src="./assets/Black-01.png" width="25" align="center"> `#111214`
+  * <img src="./assets/Black-01.png" width="25" align="center"> `#222222` 
+  * ![#FF6B00](https://via.placeholder.com/15/FF6B00/000000?text=+) `#FF6B00`
 
 ### ✨ Key Interface Features
 * **Content-Heavy Grid System:** จัดวาง Layout แบบผสมผสาน (Masonry & Standard Grid) เพื่อรองรับภาพหลายสัดส่วน (เช่น แนวตั้งสำหรับ UGC, แนวนอนสำหรับ Ads)

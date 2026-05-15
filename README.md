@@ -170,6 +170,17 @@
       <td><img src="./assets/Cyoa-VTA.png" width="300"></td>
     </tr>
   </table>
+
+  <table>
+   <tr align="center">
+      <td><b> Package (Monthly) </b></td>
+      <td><b> Package (Yearly) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Package-Monthly.png" width="300"></td>
+      <td><img src="./assets/Package-Yearly.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

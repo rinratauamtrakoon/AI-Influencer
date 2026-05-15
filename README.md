@@ -146,6 +146,19 @@
       <td><img src="./assets/Avatars.png" width="300"></td>
     </tr>
   </table>
+
+   <table>
+   <tr align="center">
+      <td><b> Product Video </b></td>
+      <td><b> Ad Clone (Upload Video) </b></td>
+      <td><b> Ad Clone (Upload Image) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Product Video.png" width="300"></td>
+      <td><img src="./assets/Ad-Clone-UV.png" width="300"></td>
+      <td><img src="./assets/Ad-Clone-UI.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

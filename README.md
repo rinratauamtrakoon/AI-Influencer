@@ -128,13 +128,22 @@
    <table>
    <tr align="center">
       <td><b> Market Trends </b></td>
-      <td><b> Projects </b></td>
-      <td><b> Products </b></td>
     </tr>
     <tr>
       <td><img src="./assets/Market-Trends.png" width="300"></td>
+    </tr>
+  </table>
+
+   <table>
+   <tr align="center">
+      <td><b> Projects </b></td>
+      <td><b> Products </b></td>
+      <td><b> Avatars </b></td>
+    </tr>
+    <tr>
       <td><img src="./assets/Projects.png" width="300"></td>
       <td><img src="./assets/Products.png" width="300"></td>
+      <td><img src="./assets/Avatars.png" width="300"></td>
     </tr>
   </table>
 </div>

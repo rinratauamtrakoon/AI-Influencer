@@ -54,7 +54,7 @@
 
 ## 📸 All Pages
 
-<div align="left">
+<div align="center">
   <table>
    <tr align="center">
       <td><b> Home (Before Login) </b></td>
@@ -63,7 +63,18 @@
     <tr>
       <td><img src="./assets/Home-BL.png" width="300"></td>
       <td><img src="./assets/Home-AL.png" width="300"></td>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
+    </tr>
+  </table>
+
+  <table>
+   <tr align="center">
+      <td><b> AI Video Ads </b></td>
+      <td><b> AI Avatars </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/AI-Video-Ads.png" width="300"></td>
+      <td><img src="./assets/AI-Avatars.png" width="300"></td>
+      <td><img src="./assets/AI-Video-Ads.png" width="300"></td>
     </tr>
   </table>
 </div>

@@ -191,6 +191,17 @@
 <div align="center">
   <table>
    <tr align="center">
+      <td><b> Sign-Up (Pop-up) </b></td>
+      <td><b> Login (Pop-up) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./pop-up/Sign Up-User-Popup.png" width="300"></td>
+      <td><img src="./pop-up/Login-User-Popup.png" width="300"></td>
+    </tr>
+  </table>
+  
+  <table>
+   <tr align="center">
       <td><b> Soical & UGC Ads (Pop-up) </b></td>
     </tr>
     <tr>

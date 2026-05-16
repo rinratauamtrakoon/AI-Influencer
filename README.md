@@ -183,6 +183,17 @@
       <td><img src="./assets/Payment.png" width="300"></td>
     </tr>
   </table>
+
+  
+  <table>
+   <tr align="center">
+      <td><b> Package (Monthly) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/Package-Monthly.png" width="300">
+      <img src="./assets/Package-Yearly.png" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 

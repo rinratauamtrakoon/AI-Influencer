@@ -1,7 +1,6 @@
 # 🤖 AI-Influencer: AI-Driven Content & Avatar Studio
 > A premium dark-mode interface for generating ads, UGC, and next-generation virtual personas.
 
-
 ---
 
 ## 📌 Overview
@@ -196,5 +195,20 @@
   </table>
 </div>
 
-
 ---
+
+## 📸 Pop-up
+
+<div align="center">
+   
+  <table>
+   <tr align="center">
+      <td><b> Soical & UGC Ads (Pop-up) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./pop-up/Social-UGC Ads Popup-01.png" width="300">
+      <img src="./pop-up/Social-UGC Ads Popup-02.png" width="300"></td>
+    </tr>
+  </table>
+</div>
+

@@ -51,7 +51,7 @@
 
 ---
 
-## 📸 All Pages
+## 📄 All Pages
 
 <div align="center">
   <table>
@@ -186,7 +186,7 @@
 
 ---
 
-## 📸 Pop-up
+## 📤 Pop-up
 
 <div align="center">
   <table>

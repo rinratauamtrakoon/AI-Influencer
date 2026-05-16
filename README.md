@@ -182,17 +182,6 @@
       <td><img src="./assets/Payment.png" width="300"></td>
     </tr>
   </table>
-
-  
-  <table>
-   <tr align="center">
-      <td><b> Package (Monthly) </b></td>
-    </tr>
-    <tr>
-      <td><img src="./assets/Package-Monthly.png" width="300">
-      <img src="./assets/Package-Yearly.png" width="300"></td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -200,7 +189,6 @@
 ## 📸 Pop-up
 
 <div align="center">
-   
   <table>
    <tr align="center">
       <td><b> Soical & UGC Ads (Pop-up) </b></td>
@@ -208,6 +196,36 @@
     <tr>
       <td><img src="./pop-up/Social-UGC Ads Popup-01.png" width="300">
       <img src="./pop-up/Social-UGC Ads Popup-02.png" width="300"></td>
+    </tr>
+  </table>
+
+  <table>
+   <tr align="center">
+      <td><b> Product Visual Effects (Pop-up) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./pop-up/Product Visual Effects-Popup-01.png" width="300">
+      <img src="./pop-up/Product Visual Effects-Popup-02.png" width="300"></td>
+    </tr>
+  </table>
+
+  <table>
+   <tr align="center">
+      <td><b> Image Ads (Pop-up) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./pop-up/Image Ads-Popup-01.png" width="300">
+      <img src="./pop-up/Image Ads-Popup-02.png" width="300"></td>
+    </tr>
+  </table>
+
+  <table>
+   <tr align="center">
+      <td><b> Avatar Showcase (Pop-up) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./pop-up/Avatar Showcase-popup-01.png" width="300">
+      <img src="./pop-up/Avatar Showcase-popup-02.png" width="300"></td>
     </tr>
   </table>
 </div>

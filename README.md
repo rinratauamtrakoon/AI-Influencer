@@ -25,7 +25,7 @@ Designed primarily in Dark Mode, the interface minimizes visual fatigue when wor
   * <img src="./assets/Color-05.png" width="25" align="center"> ( <img src="./assets/Color-06.png" width="20" align="center" >`#FEA05F` <img src="./assets/Color-07.png" width="20" align="center" >`#FF8430` <img src="./assets/Color-07.png" width="20" align="center" >`#FF6800` )
 ---
 
-### ✨ Key Features
+## ✨ Key Features
 
 * **URL to Video Ad:** Simply paste a product URL. The AI automatically scrapes the page to extract images, descriptions, and key features, transforming them into a ready-to-use video ad.ล
 * **AI Script Writer & Hook Generator:** Generates high-converting ad scripts by analyzing the product and crafting "thumb-stopping" hooks optimized for TikTok, Instagram Reels, and YouTube Shorts.
@@ -34,7 +34,8 @@ Designed primarily in Dark Mode, the interface minimizes visual fatigue when wor
 * **Batch Mode & Smart Templates:** Features a rich library of pre-designed, high-converting templates. With Batch Mode, users can generate multiple variations of a video (different hooks, avatars, or music) simultaneously for rapid A/B testing.
 
 ---
-### ⚙️ Platform Workflow
+## ⚙️ Platform Workflow
+
 * **Input Data:** Users paste a product link (URL) or upload product images along with a brief description.
 * **AI Generation:** The AI processes the assets to draft scripts, create storyboards, and populate the Card UI with initial content variations.
 * **Grid Customization:** Users easily tweak details directly through the Grid Dashboard—switching AI avatars, adjusting voiceover tones, changing background music, or editing text overlays.

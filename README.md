@@ -34,6 +34,12 @@ Designed primarily in Dark Mode, the interface minimizes visual fatigue when wor
 * **Batch Mode & Smart Templates:** Features a rich library of pre-designed, high-converting templates. With Batch Mode, users can generate multiple variations of a video (different hooks, avatars, or music) simultaneously for rapid A/B testing.
 
 ---
+### ⚙️ Platform Workflow
+* **Input Data:** Users paste a product link (URL) or upload product images along with a brief description.
+* **AI Generation:** The AI processes the assets to draft scripts, create storyboards, and populate the Card UI with initial content variations.
+* **Grid Customization:** Users easily tweak details directly through the Grid Dashboard—switching AI avatars, adjusting voiceover tones, changing background music, or editing text overlays.
+* **Render & Export:** With a single click, the system renders high-definition videos or images, ready to be deployed across advertising and social media platforms.
+---
 
 ## 🛠️ Built With
 * **Design Tool:** Figma (UI Layout, Prototyping & Grid System)

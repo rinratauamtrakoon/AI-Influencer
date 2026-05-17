@@ -50,6 +50,17 @@ Designed primarily in Dark Mode, the interface minimizes visual fatigue when wor
 ## 📱 Interactive Prototype
 Interact with the live prototype and view different component states here:
 👉 [**View Figma Prototype**](https://www.figma.com/design/JNiPOCPXuaJUiUynTVrOYP/Al-Influencer--UI-Kits-?node-id=1-2&t=XrUrF3ovQjZKoFqw-1)
+<div align="center">
+ <table>
+   <tr align="center">
+      <td><b> Home (After Login) </b></td>
+    </tr>
+      <tr>
+      <td><img src="./assets/Home-BL.png" width="300"></td>
+      <td><img src="./assets/Home-AL.png" width="300"></td>
+    </tr>
+ </table>
+</div>
 
 ---
 

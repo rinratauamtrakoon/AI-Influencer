@@ -199,6 +199,17 @@
       <td><img src="./pop-up/Login-User-Popup.png" width="300"></td>
     </tr>
   </table>
+
+  <table>
+   <tr align="center">
+      <td><b> Sign up Success (Pop-up) </b></td>
+      <td><b> Payment Success (Pop-up) </b></td>
+    </tr>
+    <tr>
+      <td><img src="./pop-up/Sign up-Success-Popup.png" width="300"></td>
+      <td><img src="./pop-up/Payment-Success-Popup.png" width="300"></td>
+    </tr>
+  </table>
   
   <table>
    <tr align="center">

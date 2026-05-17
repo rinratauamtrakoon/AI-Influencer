@@ -39,7 +39,7 @@ Designed primarily in Dark Mode, the interface minimizes visual fatigue when wor
 ---
 
 ## 📱 Interactive Prototype
-คุณสามารถทดลองใช้งาน Prototype และดู Component States ต่างๆ ได้ที่นี่:
+Interact with the live prototype and view different component states here:
 👉 [**View Figma Prototype**](https://www.figma.com/design/JNiPOCPXuaJUiUynTVrOYP/Al-Influencer--UI-Kits-?node-id=1-2&t=XrUrF3ovQjZKoFqw-1)
 
 ---

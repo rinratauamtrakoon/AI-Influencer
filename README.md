@@ -1,14 +1,14 @@
-# 🤖 AI-Influencer: AI-Driven Content & Avatar Studio
-> A premium dark-mode interface for generating ads, UGC, and next-generation virtual personas.
+# 🤖 AI-Influencer: Intelligent Ad & Virtual Persona Workspace
+> A premium platform for generating high-converting ads, authentic UGC, and next-generation virtual personas.
 
 ---
 
 ## 📌 Overview
-**AI-Influencer** เป็นแพลตฟอร์มศูนย์รวมเครื่องมือ Generative AI ที่ออกแบบมาเพื่อสายมาร์เก็ตติ้งและครีเอเตอร์โดยเฉพาะ ตัวแอปพลิเคชันช่วยทลายข้อจำกัดในการผลิตสื่อโฆษณา โดยรวมฟีเจอร์การสร้างภาพสินค้าสไตล์ Cinematic, คอนเทนต์ UGC, และการสร้าง Influencer เสมือนจริง (Virtual Avatar) ไว้ใน Dashboard เดียวที่ใช้งานง่ายและดูล้ำสมัย
+**AI-Influencer** is a centralized Generative AI platform designed specifically for digital marketers, e-commerce brands, and content creators. The application eliminates the traditional friction of ad production by integrating cinematic product photography, short-form video ad generation, UGC style content, and realistic virtual avatars into a single, intuitive, and futuristic dashboard.
 
 ### 🎯 Objective
-* **Problem:** แบรนด์และเอเจนซี่ต้องใช้ต้นทุนและเวลาจำนวนมากในการถ่ายทำ Product Shot, หา Influencer, และผลิตสื่อโฆษณาสำหรับโซเชียลมีเดีย
-* **Solution:** ออกแบบแพลตฟอร์มที่รวมทุก AI Tools ไว้ด้วยกัน ใช้ระบบ Grid และ Card UI เพื่อจัดระเบียบภาพและวิดีโอจำนวนมากให้ผู้ใช้ค้นหาและ Generate งานได้อย่างรวดเร็ว
+* **Problem:** Brands and agencies face high costs, extensive timelines, and resource constraints when shooting product photography, scouting influencers, and producing the diverse, high-volume video content required to stay relevant on fast-paced social media feeds.
+* **Solution:** An all-in-one platform integrating a comprehensive suite of AI tools. Utilizing a clean Grid and Card UI, it effortlessly organizes high volumes of data, scripts, images, and videos—allowing users to search, customize, and generate high-converting ad creatives in minutes.
 
 ---
 

@@ -14,8 +14,8 @@
 
 ## 🎨 Design Strategy
 
-### 🌌 Visual Style: Immersive Dark Mode
-เราเลือกใช้ธีม **Dark Mode** เป็นหลัก เพื่อช่วยลดความเมื่อยล้าของสายตาเมื่อต้องทำงานกับรูปภาพจำนวนมาก และช่วยขับเน้นสีสันของผลงาน AI (Product Effects & Avatars) ให้โดดเด่นเด้งออกมาจากพื้นหลัง
+### 🌌 Visual Style
+Designed primarily in Dark Mode, the interface minimizes visual fatigue when working with extensive media grids, while seamlessly making the rich colors of AI-generated product effects and virtual avatars stand out from the background.
 * **Typography:** Bebas Neue / Poppins
 * **Colors:**
   * <img src="./assets/Color-01.png" width="25" align="center"> `#111214`
@@ -24,19 +24,12 @@
   * <img src="./assets/Color-04.png" width="25" align="center"> `#B5B5B5`
   * <img src="./assets/Color-05.png" width="25" align="center"> ( <img src="./assets/Color-06.png" width="20" align="center" >`#FEA05F` <img src="./assets/Color-07.png" width="20" align="center" >`#FF8430` <img src="./assets/Color-07.png" width="20" align="center" >`#FF6800` )
 
-### ✨ Key Interface Features
-* **Content-Heavy Grid System:** จัดวาง Layout แบบผสมผสาน (Masonry & Standard Grid) เพื่อรองรับภาพหลายสัดส่วน (เช่น แนวตั้งสำหรับ UGC, แนวนอนสำหรับ Ads)
-* **Social Media Card View:** ออกแบบ UI ของ "Meta Top Ads" ให้จำลองหน้าตาเหมือนโพสต์โซเชียลมีเดียจริง เพื่อให้ผู้ใช้เห็นภาพผลลัพธ์ก่อนนำไปใช้งาน
-* **Categorized Navigation:** แถบเมนูด้านข้าง (Sidebar) ที่แบ่งสัดส่วนชัดเจน ช่วยให้สลับการทำงานระหว่างการสร้าง Avatar, ดู Analytics, และจัดการแคมเปญได้ลื่นไหล
-
----
-
-## 🚀 Core Platform Features
-จากหน้า Dashboard หลัก แพลตฟอร์มรองรับการทำงาน 4 ส่วนสำคัญ:
-1. **Social & UGC Ads:** คลังภาพไลฟ์สไตล์และ User-Generated Content ที่สร้างจาก AI
-2. **Product Visual Effects:** ระบบ Generate ภาพสินค้าในสภาพแวดล้อมระดับ Cinematic 8K
-3. **Meta Top Ads:** ระบบพรีวิวและสร้างโฆษณาที่พร้อมใช้งานบนแพลตฟอร์ม Social Media
-4. **Avatar Showcase:** ระบบสร้างและจัดการ Virtual Persona ที่ให้ความสมจริงระดับ Photorealistic
+### ✨ Key Features
+* **URL to Video Ad:** Simply paste a product URL. The AI automatically scrapes the page to extract images, descriptions, and key features, transforming them into a ready-to-use video ad.ล
+* **AI Script Writer & Hook Generator:** Generates high-converting ad scripts by analyzing the product and crafting "thumb-stopping" hooks optimized for TikTok, Instagram Reels, and YouTube Shorts.
+* **Virtual Avatars & Lip-sync:** Access a diverse library of hyper-realistic digital human avatars that lip-sync naturally to your script, effectively serving as on-screen brand ambassadors without the cost of hiring actors.
+* **Text-to-Speech & Voice Cloning:** Converts scripts into professional voiceovers with realistic tones. It supports multiple languages (including Thai) and includes a Voice Cloning feature to establish a unique audio identity for your brand.
+* **Batch Mode & Smart Templates:** Features a rich library of pre-designed, high-converting templates. With Batch Mode, users can generate multiple variations of a video (different hooks, avatars, or music) simultaneously for rapid A/B testing.
 
 ---
 

@@ -23,8 +23,10 @@ Designed primarily in Dark Mode, the interface minimizes visual fatigue when wor
   * <img src="./assets/Color-03.png" width="25" align="center"> `#FFFFFF`
   * <img src="./assets/Color-04.png" width="25" align="center"> `#B5B5B5`
   * <img src="./assets/Color-05.png" width="25" align="center"> ( <img src="./assets/Color-06.png" width="20" align="center" >`#FEA05F` <img src="./assets/Color-07.png" width="20" align="center" >`#FF8430` <img src="./assets/Color-07.png" width="20" align="center" >`#FF6800` )
+---
 
 ### ✨ Key Features
+
 * **URL to Video Ad:** Simply paste a product URL. The AI automatically scrapes the page to extract images, descriptions, and key features, transforming them into a ready-to-use video ad.ล
 * **AI Script Writer & Hook Generator:** Generates high-converting ad scripts by analyzing the product and crafting "thumb-stopping" hooks optimized for TikTok, Instagram Reels, and YouTube Shorts.
 * **Virtual Avatars & Lip-sync:** Access a diverse library of hyper-realistic digital human avatars that lip-sync naturally to your script, effectively serving as on-screen brand ambassadors without the cost of hiring actors.

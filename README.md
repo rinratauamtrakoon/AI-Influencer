@@ -53,11 +53,10 @@ Interact with the live prototype and view different component states here:
 <div align="center">
  <table>
    <tr align="center">
-      <td><b> Home (After Login) </b></td>
+      <td><b> Prototype Flow </b></td>
     </tr>
       <tr>
-      <td><img src="./assets/Home-BL.png" width="300"></td>
-      <td><img src="./assets/Home-AL.png" width="300"></td>
+      <td><img src="./assets/Prototype-Flow.png" width="300"></td>
     </tr>
  </table>
 </div>

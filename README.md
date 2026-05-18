@@ -61,12 +61,14 @@ Interact with the live prototype and view different component states here:
  </table>
 </div>
 
-### Screen Connections
+---
+
+## 🔄 User FLow
+Home (Before Login) &rarr; (Menu: Click to login) &rarr; Sign in (Register) &rarr; 
 
 ---
 
 ## 📄 All Pages
-
 <div align="center">
   <table>
    <tr align="center">

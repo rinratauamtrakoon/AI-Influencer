@@ -64,7 +64,9 @@ Interact with the live prototype and view different component states here:
 ---
 
 ## 🔄 User FLow
-Home (Before Login) &rarr; (Menu: Click to login) &rarr; Sign in (Register) &rarr; 
+<div align="center">
+     <img src="./assets/User Flow-01.png" width="1000">
+</div>
 
 ---
 

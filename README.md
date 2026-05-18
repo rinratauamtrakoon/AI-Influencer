@@ -61,6 +61,8 @@ Interact with the live prototype and view different component states here:
  </table>
 </div>
 
+### Screen Connections
+
 ---
 
 ## 📄 All Pages
